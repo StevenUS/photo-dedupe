@@ -1,0 +1,5 @@
+.venv
+venv
+.idea
+image_metadata.db
+.DS_Store
